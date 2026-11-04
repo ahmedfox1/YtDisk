@@ -1,0 +1,4 @@
+numpy
+reedsolo
+cryptography
+yt-dlp

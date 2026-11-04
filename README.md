@@ -46,7 +46,7 @@ flowchart LR
 ### 1. التسطيب
 
 ```bash
-git clone https://github.com/<USERNAME>/ytdisk.git
+git clone https://github.com/ahmedfox1/YtDisk
 cd ytdisk
 pip install -r requirements.txt
 ```
@@ -192,11 +192,6 @@ return codewords.T.copy().tobytes()   # الـtranspose هو الـinterleaving
 - **ممكن يخالف شروط الاستخدام.** رفع فيديوهات هدفها التخزين مش المشاهدة ممكن يعرّض حسابك لمشاكل.
 - **فيه بدائل أحسن.** Google Drive بيديك 15 جيجا مجاناً من غير أي صداع.
 
----
-
-## 🧩 التحدّي
-
-في آخر الفيديو فيه ملف مستخبي. نزّل الأداة، وفك الفيديو، واكتب اللي جواه في الكومنتات 🎁
 
 ---
 
@@ -216,8 +211,6 @@ return codewords.T.copy().tobytes()   # الـtranspose هو الـinterleaving
 ## 📚 اتعلم أكتر
 
 - 🎥 **الفيديو الكامل:** [قناة بشمهندس أحمد سامح](https://www.youtube.com/@Ahmed_Sameh1)
-- 🎓 **كورسات Computer Science:** [AS Academy](https://academy.ahmedsameh.vip)
-- 🌐 [ahmedsameh.vip](https://ahmedsameh.vip)
 
 الفكرة مستوحاة من مشاريع زي [Infinite Storage Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)، والكود هنا مكتوب من الصفر بـPython عشان يتشرح خطوة بخطوة.
 

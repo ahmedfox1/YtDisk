@@ -2,3 +2,4 @@ numpy
 reedsolo
 cryptography
 yt-dlp
+tqdm
